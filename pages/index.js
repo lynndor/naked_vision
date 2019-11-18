@@ -12,6 +12,7 @@ const Home = () => (
     <Nav />
 
     <h1>Welcome to Naked Vision TV</h1>
+    <p>Wait and see what we have in store</p>
   </div>
 );
 
